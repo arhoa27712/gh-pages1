@@ -1,2 +1,1 @@
-# gh-pages1
-Autumn Ridge Site Beta
+# Autumn Ridge Site Beta
