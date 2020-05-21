@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Autumn Ridge - Durham</title>
-    <link href="https://arhoa27712.github.io/feed.xml" rel="self" />
-    <link href="https://arhoa27712.github.io" />
-    <updated>2020-05-21T15:26:17-04:00</updated>
+    <link href="https://arhoa27712.github.io/gh-pages1/feed.xml" rel="self" />
+    <link href="https://arhoa27712.github.io/gh-pages1" />
+    <updated>2020-05-21T15:30:04-04:00</updated>
     <author>
         <name>Autumn Ridge HOA</name>
     </author>
-    <id>https://arhoa27712.github.io</id>
+    <id>https://arhoa27712.github.io/gh-pages1</id>
 
     <entry>
         <title>Architectural Documents</title>
         <author>
             <name>Autumn Ridge HOA</name>
         </author>
-        <link href="https://arhoa27712.github.io/architectural-documents.html"/>
-        <id>https://arhoa27712.github.io/architectural-documents.html</id>
+        <link href="https://arhoa27712.github.io/gh-pages1/architectural-documents.html"/>
+        <id>https://arhoa27712.github.io/gh-pages1/architectural-documents.html</id>
 
         <updated>2020-05-21T00:15:23-04:00</updated>
             <summary>
@@ -25,8 +25,8 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p><a href="https://arhoa27712.github.io/ARBGuidelines.pdf" target="_blank" rel="noopener noreferrer"> <img src="https://arhoa27712.github.io/iconPDF.png" alt="ARBGuide" width="35" height="35" border="0">Architectural Review Guidelines</a></p>
-<p><a href="https://arhoa27712.github.io/AutumnRidgeARCFormWilliamDouglas.pdf" target="_blank" rel="noopener noreferrer"> <img src="https://arhoa27712.github.io/iconPDF.png" alt="ARBForm" width="35" height="35" border="0">Architectural Review Committee Form</a></p>
+                <p><a href="https://arhoa27712.github.io/gh-pages1/ARBGuidelines.pdf" target="_blank" rel="noopener noreferrer"> <img src="https://arhoa27712.github.io/gh-pages1/iconPDF.png" alt="ARBGuide" width="35" height="35" border="0">Architectural Review Guidelines</a></p>
+<p><a href="https://arhoa27712.github.io/gh-pages1/AutumnRidgeARCFormWilliamDouglas.pdf" target="_blank" rel="noopener noreferrer"> <img src="https://arhoa27712.github.io/gh-pages1/iconPDF.png" alt="ARBForm" width="35" height="35" border="0">Architectural Review Committee Form</a></p>
             ]]>
         </content>
     </entry>
@@ -35,8 +35,8 @@
         <author>
             <name>Autumn Ridge HOA</name>
         </author>
-        <link href="https://arhoa27712.github.io/bylaws-and-covenants.html"/>
-        <id>https://arhoa27712.github.io/bylaws-and-covenants.html</id>
+        <link href="https://arhoa27712.github.io/gh-pages1/bylaws-and-covenants.html"/>
+        <id>https://arhoa27712.github.io/gh-pages1/bylaws-and-covenants.html</id>
 
         <updated>2020-05-21T00:14:19-04:00</updated>
             <summary>
@@ -46,11 +46,11 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p><a href="https://arhoa27712.github.io/AutumnRidgeBylaws.pdf" target="_blank" rel="noopener noreferrer"> <img src="https://arhoa27712.github.io/iconPDF.png" alt="ARBylaws" width="35" height="35" border="0">Autumn Ridge By Laws</a></p>
-<p><a href="https://arhoa27712.github.io/declarationCovenants.pdf" target="_blank" rel="noopener noreferrer"> <img src="https://arhoa27712.github.io/iconPDF.png" alt="origCovenants" width="35" height="35" border="0">Declaration Covenants</a></p>
-<p><a href="https://arhoa27712.github.io/SupplementalCovenants.pdf" target="_blank" rel="noopener noreferrer"> <img src="https://arhoa27712.github.io/iconPDF.png" alt="addCoventants1" width="35" height="35" border="0">Supplemental Covenants</a></p>
-<p><a href="https://arhoa27712.github.io/SupplementalCovenantsPhaseII.pdf" target="_blank" rel="noopener noreferrer"> <img src="https://arhoa27712.github.io/iconPDF.png" alt="addCoventants2" width="35" height="35" border="0">Supplemental Covenants Phase II</a></p>
-<p><a href="https://arhoa27712.github.io/SupplementalCovenantsPhaseIII.pdf" target="_blank" rel="noopener noreferrer"> <img src="https://arhoa27712.github.io/iconPDF.png" alt="addCoventants3" width="35" height="35" border="0">Supplemental Covenants Phase III</a></p>
+                <p><a href="https://arhoa27712.github.io/gh-pages1/AutumnRidgeBylaws.pdf" target="_blank" rel="noopener noreferrer"> <img src="https://arhoa27712.github.io/gh-pages1/iconPDF.png" alt="ARBylaws" width="35" height="35" border="0">Autumn Ridge By Laws</a></p>
+<p><a href="https://arhoa27712.github.io/gh-pages1/declarationCovenants.pdf" target="_blank" rel="noopener noreferrer"> <img src="https://arhoa27712.github.io/gh-pages1/iconPDF.png" alt="origCovenants" width="35" height="35" border="0">Declaration Covenants</a></p>
+<p><a href="https://arhoa27712.github.io/gh-pages1/SupplementalCovenants.pdf" target="_blank" rel="noopener noreferrer"> <img src="https://arhoa27712.github.io/gh-pages1/iconPDF.png" alt="addCoventants1" width="35" height="35" border="0">Supplemental Covenants</a></p>
+<p><a href="https://arhoa27712.github.io/gh-pages1/SupplementalCovenantsPhaseII.pdf" target="_blank" rel="noopener noreferrer"> <img src="https://arhoa27712.github.io/gh-pages1/iconPDF.png" alt="addCoventants2" width="35" height="35" border="0">Supplemental Covenants Phase II</a></p>
+<p><a href="https://arhoa27712.github.io/gh-pages1/SupplementalCovenantsPhaseIII.pdf" target="_blank" rel="noopener noreferrer"> <img src="https://arhoa27712.github.io/gh-pages1/iconPDF.png" alt="addCoventants3" width="35" height="35" border="0">Supplemental Covenants Phase III</a></p>
             ]]>
         </content>
     </entry>
