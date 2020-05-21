@@ -1,0 +1,42 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Autumn Ridge - Durham",
+    "description": "",
+    "home_page_url": "https://arhoa27712.github.io",
+    "feed_url": "https://arhoa27712.github.io/feed.json",
+    "user_comment": "",
+    "icon": "https://arhoa27712.github.io/media/website/home.png",
+    "author": {
+        "name": "Autumn Ridge HOA"
+    },
+    "items": [
+        {
+            "id": "https://arhoa27712.github.io/architectural-documents.html",
+            "url": "https://arhoa27712.github.io/architectural-documents.html",
+            "title": "Architectural Documents",
+            "summary": " Architectural Review Guidelines Architectural Review Committee Form",
+            "content_html": "<p><a href=\"https://arhoa27712.github.io/ARBGuidelines.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"> <img src=\"https://arhoa27712.github.io/iconPDF.png\" alt=\"ARBGuide\" width=\"35\" height=\"35\" border=\"0\">Architectural Review Guidelines</a></p>\n<p><a href=\"https://arhoa27712.github.io/AutumnRidgeARCFormWilliamDouglas.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"> <img src=\"https://arhoa27712.github.io/iconPDF.png\" alt=\"ARBForm\" width=\"35\" height=\"35\" border=\"0\">Architectural Review Committee Form</a></p>",
+            "author": {
+                "name": "Autumn Ridge HOA"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-05-21T00:11:08-04:00",
+            "date_modified": "2020-05-21T00:15:23-04:00"
+        },
+        {
+            "id": "https://arhoa27712.github.io/bylaws-and-covenants.html",
+            "url": "https://arhoa27712.github.io/bylaws-and-covenants.html",
+            "title": "Bylaws and Covenants",
+            "summary": " Autumn Ridge By Laws Declaration Covenants Supplemental Covenants Supplemental Covenants Phase II Supplemental Covenants Phase III",
+            "content_html": "<p><a href=\"https://arhoa27712.github.io/AutumnRidgeBylaws.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"> <img src=\"https://arhoa27712.github.io/iconPDF.png\" alt=\"ARBylaws\" width=\"35\" height=\"35\" border=\"0\">Autumn Ridge By Laws</a></p>\n<p><a href=\"https://arhoa27712.github.io/declarationCovenants.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"> <img src=\"https://arhoa27712.github.io/iconPDF.png\" alt=\"origCovenants\" width=\"35\" height=\"35\" border=\"0\">Declaration Covenants</a></p>\n<p><a href=\"https://arhoa27712.github.io/SupplementalCovenants.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"> <img src=\"https://arhoa27712.github.io/iconPDF.png\" alt=\"addCoventants1\" width=\"35\" height=\"35\" border=\"0\">Supplemental Covenants</a></p>\n<p><a href=\"https://arhoa27712.github.io/SupplementalCovenantsPhaseII.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"> <img src=\"https://arhoa27712.github.io/iconPDF.png\" alt=\"addCoventants2\" width=\"35\" height=\"35\" border=\"0\">Supplemental Covenants Phase II</a></p>\n<p><a href=\"https://arhoa27712.github.io/SupplementalCovenantsPhaseIII.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"> <img src=\"https://arhoa27712.github.io/iconPDF.png\" alt=\"addCoventants3\" width=\"35\" height=\"35\" border=\"0\">Supplemental Covenants Phase III</a></p>",
+            "author": {
+                "name": "Autumn Ridge HOA"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-05-20T23:52:33-04:00",
+            "date_modified": "2020-05-21T00:14:19-04:00"
+        }
+    ]
+}
