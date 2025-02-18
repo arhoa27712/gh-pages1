@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://www.autumnridgedurham.com/gh-pages1/sitemap.xml
