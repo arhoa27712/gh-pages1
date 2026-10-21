@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://arhoa27712.github.io/gh-pages1/sitemap.xml

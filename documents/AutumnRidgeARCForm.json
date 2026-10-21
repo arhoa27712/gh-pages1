@@ -1,0 +1,479 @@
+{
+	"pdf24FormBuilder": 1,
+	"document": {
+		"version": 1,
+		"title": "Autumn Ridge Architectural Change Request Form",
+		"page": {
+			"paper": "Letter",
+			"landscape": false,
+			"margins": {
+				"top": 18,
+				"right": 20,
+				"bottom": 18,
+				"left": 20
+			}
+		},
+		"design": {
+			"accent": "#0b5cad",
+			"fontSize": 10,
+			"fieldStyle": "boxed",
+			"labelPosition": "top",
+			"direction": "ltr",
+			"fieldFont": "auto"
+		},
+		"header": {
+			"text": "",
+			"logo": "",
+			"logoW": 0,
+			"logoH": 0,
+			"logoHeight": 14,
+			"logoSide": "right"
+		},
+		"footer": "Autumn Ridge Homeowners Association, Inc.",
+		"pageNumbers": true,
+		"blocks": [
+			{
+				"id": "6vduj2jw",
+				"type": "heading",
+				"level": 1,
+				"text": "Autumn Ridge Homeowners Association, Inc.\nArchitectural Change Request Form",
+				"style": "band",
+				"align": "center"
+			},
+			{
+				"id": "179uinit",
+				"type": "paragraph",
+				"text": "Please submit this application and any attachments to:\nWilliam Douglas Property Management\nPhone (919) 521-5751 Fax (919) 521-5823\nB\nI\nU\n•≡\n1.\n🔗\nT̸",
+				"html": "Please submit this application and any attachments to:<br>William Douglas Property Management<br>Phone (919) 521-5751 Fax (919) 521-5823"
+			},
+			{
+				"id": "tv244h59",
+				"type": "row",
+				"items": [
+					{
+						"id": "6gv7ozat",
+						"type": "text",
+						"label": "Homeowner's Name",
+						"name": "",
+						"required": true,
+						"readOnly": false,
+						"help": "",
+						"width": 1,
+						"value": "",
+						"maxLength": 0,
+						"minLength": 0,
+						"allowed": ""
+					},
+					{
+						"id": "gt42yomi",
+						"type": "text",
+						"label": "Property Address",
+						"name": "",
+						"required": true,
+						"readOnly": false,
+						"help": "",
+						"width": 1,
+						"value": "",
+						"maxLength": 0,
+						"minLength": 0,
+						"allowed": ""
+					}
+				]
+			},
+			{
+				"id": "hl4btw2e",
+				"type": "row",
+				"items": [
+					{
+						"id": "lv3amlbx",
+						"type": "phone",
+						"label": "Homeowner's Phone",
+						"name": "",
+						"required": true,
+						"readOnly": false,
+						"help": "",
+						"width": 1,
+						"value": ""
+					},
+					{
+						"id": "fhfuzvbn",
+						"type": "text",
+						"label": "Lot # (If known)",
+						"name": "",
+						"required": false,
+						"readOnly": false,
+						"help": "",
+						"width": 1,
+						"value": "",
+						"maxLength": 0,
+						"minLength": 0,
+						"allowed": ""
+					}
+				]
+			},
+			{
+				"id": "kacls221",
+				"type": "spacer",
+				"height": 12
+			},
+			{
+				"id": "bhl4c06y",
+				"type": "paragraph",
+				"text": "Request Statement and Agreement",
+				"html": "<b>Request Statement and Agreement</b>",
+				"align": "center"
+			},
+			{
+				"id": "myec1r8z",
+				"type": "paragraph",
+				"text": "I determine this proposed project to be fully compliant with the Autumn Ridge Homeowners Association, Inc. Covenants and Architectural Guidelines. I request approval by the Autumn Ridge Association for the following described project only. I grant permission to the Association to enter my property and inspect the project prior to, during, and upon completion of the project. If Autumn Ridge Homeowners Association and/or Architectural Committee determines this project in any way violates the existing Autumn Ridge Association Covenants and/or Architectural Guidelines or is not completed within the allotted time, I will ensure the project will be made fully compliant with the covenants and completed.\nB\nI\nU\n•≡\n1.\n🔗\nT̸",
+				"html": "I determine this proposed project to be fully compliant with the Autumn Ridge Homeowners Association, Inc. Covenants and Architectural Guidelines. I request approval by the Autumn Ridge Association for the following described project only. I grant permission to the Association to enter my property and inspect the project prior to, during, and upon completion of the project. If Autumn Ridge Homeowners Association and/or Architectural Committee determines this project in any way violates the existing Autumn Ridge Association Covenants and/or Architectural Guidelines or is not completed within the allotted time, I will ensure the project will be made fully compliant with the covenants and completed."
+			},
+			{
+				"id": "e7ttmp20",
+				"type": "row",
+				"items": [
+					{
+						"id": "y6qqfe16",
+						"type": "date",
+						"label": "Date",
+						"name": "",
+						"required": false,
+						"readOnly": false,
+						"help": "",
+						"width": 1,
+						"value": "",
+						"dateFormat": "yyyy-mm-dd",
+						"today": true
+					},
+					{
+						"id": "7f51fp7l",
+						"type": "signature",
+						"label": "Homeowner Signature",
+						"name": "",
+						"required": false,
+						"readOnly": false,
+						"help": "",
+						"width": 1.6
+					}
+				]
+			},
+			{
+				"id": "etm3kepp",
+				"type": "spacer",
+				"height": 12
+			},
+			{
+				"id": "fsp1rrsw",
+				"type": "paragraph",
+				"text": "Neighbor Acknowledgement\nB\nI\nU\n•≡\n1.\n🔗\nT̸",
+				"html": "<b>Neighbor Acknowledgement</b>",
+				"align": "center"
+			},
+			{
+				"id": "rcmhtzp5",
+				"type": "paragraph",
+				"text": "The HOA considers notification of neighbors as a common courtesy in the approval process. Therefore, for each neighbor who is adjacent to your property, please provide their name, address and telephone number and make a reasonable attempt to obtain their signature. Signatures below signify that neighbors are aware of your plans, and do not convey approval or disapproval of the project:\nB\nI\nU\n•≡\n1.\n🔗\nT̸",
+				"html": "The HOA considers notification of neighbors as a common courtesy in the approval process. Therefore, for each neighbor who is adjacent to your property, please provide their name, address and telephone number and make a reasonable attempt to obtain their signature. Signatures below signify that neighbors are aware of your plans, and do not convey approval or disapproval of the project:"
+			},
+			{
+				"id": "urxhd0sr",
+				"type": "row",
+				"items": [
+					{
+						"id": "kpfpu08t",
+						"type": "text",
+						"label": "Name",
+						"name": "",
+						"required": true,
+						"readOnly": false,
+						"help": "",
+						"width": 1,
+						"value": "",
+						"maxLength": 0,
+						"minLength": 0,
+						"allowed": ""
+					},
+					{
+						"id": "brjoy8gt",
+						"type": "text",
+						"label": "Address",
+						"name": "",
+						"required": true,
+						"readOnly": false,
+						"help": "",
+						"width": 1,
+						"value": "",
+						"maxLength": 0,
+						"minLength": 0,
+						"allowed": ""
+					},
+					{
+						"id": "6n4d92iv",
+						"type": "phone",
+						"label": "Phone",
+						"name": "",
+						"required": true,
+						"readOnly": false,
+						"help": "",
+						"width": 1,
+						"value": ""
+					}
+				]
+			},
+			{
+				"id": "lp1n1x9t",
+				"type": "row",
+				"items": [
+					{
+						"id": "z638hhoq",
+						"type": "text",
+						"label": "Name",
+						"name": "",
+						"required": true,
+						"readOnly": false,
+						"help": "",
+						"width": 1,
+						"value": "",
+						"maxLength": 0,
+						"minLength": 0,
+						"allowed": ""
+					},
+					{
+						"id": "ghsve581",
+						"type": "text",
+						"label": "Address",
+						"name": "",
+						"required": true,
+						"readOnly": false,
+						"help": "",
+						"width": 1,
+						"value": "",
+						"maxLength": 0,
+						"minLength": 0,
+						"allowed": ""
+					},
+					{
+						"id": "iftiqx59",
+						"type": "phone",
+						"label": "Phone",
+						"name": "",
+						"required": true,
+						"readOnly": false,
+						"help": "",
+						"width": 1,
+						"value": ""
+					}
+				]
+			},
+			{
+				"id": "z5pvkql5",
+				"type": "row",
+				"items": [
+					{
+						"id": "juntb3pe",
+						"type": "text",
+						"label": "Name",
+						"name": "",
+						"required": false,
+						"readOnly": false,
+						"help": "",
+						"width": 1,
+						"value": "",
+						"maxLength": 0,
+						"minLength": 0,
+						"allowed": ""
+					},
+					{
+						"id": "ipaqieoe",
+						"type": "text",
+						"label": "Address",
+						"name": "",
+						"required": false,
+						"readOnly": false,
+						"help": "",
+						"width": 1,
+						"value": "",
+						"maxLength": 0,
+						"minLength": 0,
+						"allowed": ""
+					},
+					{
+						"id": "swmsh3d5",
+						"type": "phone",
+						"label": "Phone",
+						"name": "",
+						"required": false,
+						"readOnly": false,
+						"help": "",
+						"width": 1,
+						"value": ""
+					}
+				]
+			},
+			{
+				"id": "aeroenc4",
+				"type": "pageBreak"
+			},
+			{
+				"id": "wofibvsu",
+				"type": "paragraph",
+				"text": "Describe Proposed changes or additions\nB\nI\nU\n•≡\n1.\n🔗\nT̸",
+				"html": "<b>Describe Proposed changes or additions</b>",
+				"align": "center"
+			},
+			{
+				"id": "833179g8",
+				"type": "paragraph",
+				"text": "To speed up the process the proposed plan should include sizes, heights, description of\nB\nI\nU\n•≡\n1.\n🔗\nT̸\nmaterials, etc. Attach a copy of your plot plan, if possible, and indicate location of proposed exterior design change on lot in relation to house and other existing structures. Also attach any sketches, specifications, pictures, paint charts, or the like that will assist in reviewing this application. Please note that potential screening or site restrictions, noise levels, and other privacy intrusions will be considered in review & approval of any mechanical equipment, i.e. trees restricting views and pool pumps.",
+				"html": "To speed up the process the proposed plan should include sizes, heights, description of<br>materials, etc. Attach a copy of your plot plan, if possible, and indicate location of proposed exterior design change on lot in relation to house and other existing structures. Also attach any sketches, specifications, pictures, paint charts, or the like that will assist in reviewing this application. Please note that potential screening or site restrictions, noise levels, and other privacy intrusions will be considered in review &amp; approval of any mechanical equipment, i.e. trees restricting views and pool pumps."
+			},
+			{
+				"id": "493zjb2t",
+				"type": "row",
+				"items": [
+					{
+						"id": "dlbsvq7b",
+						"type": "textarea",
+						"label": "Comments",
+						"name": "",
+						"required": true,
+						"readOnly": false,
+						"help": "",
+						"width": 1,
+						"value": "",
+						"lines": 3
+					}
+				]
+			},
+			{
+				"id": "fpf6k9xn",
+				"type": "row",
+				"items": [
+					{
+						"id": "mzafyenl",
+						"type": "date",
+						"label": "Estimated Construction Start Date",
+						"name": "",
+						"required": true,
+						"readOnly": false,
+						"help": "",
+						"width": 1,
+						"value": "",
+						"dateFormat": "dd/mm/yyyy",
+						"today": false
+					},
+					{
+						"id": "dvy6hwrc",
+						"type": "date",
+						"label": "Estimated Construction End Date",
+						"name": "",
+						"required": true,
+						"readOnly": false,
+						"help": "",
+						"width": 1,
+						"value": "",
+						"dateFormat": "dd/mm/yyyy",
+						"today": false
+					}
+				]
+			},
+			{
+				"id": "8vl9rfpb",
+				"type": "paragraph",
+				"text": "Please make sure your contractor adheres to your schedule, since the association can\nB\nI\nU\n•≡\n1.\n🔗\nT̸\nforce its completion.",
+				"html": "Please make sure your contractor adheres to your schedule, since the association can<br>force its completion."
+			},
+			{
+				"id": "v93p8wuj",
+				"type": "row",
+				"items": [
+					{
+						"id": "tuxf7gev",
+						"type": "textarea",
+						"label": "Other Information Regarding Project Request",
+						"name": "",
+						"required": false,
+						"readOnly": false,
+						"help": "",
+						"width": 1,
+						"value": "",
+						"lines": 3
+					}
+				]
+			},
+			{
+				"id": "3c9vlqtx",
+				"type": "row",
+				"items": [
+					{
+						"id": "5n71069r",
+						"type": "textarea",
+						"label": "Special Conditions for Approval (For Official Use Only)",
+						"name": "",
+						"required": false,
+						"readOnly": false,
+						"help": "",
+						"width": 1,
+						"value": "",
+						"lines": 3
+					}
+				]
+			},
+			{
+				"id": "289cne75",
+				"type": "row",
+				"items": [
+					{
+						"id": "5f7augbc",
+						"type": "checkboxes",
+						"label": "ARC Review Disposition (For Official Use Only)",
+						"name": "",
+						"required": false,
+						"readOnly": false,
+						"help": "",
+						"width": 1,
+						"options": [
+							"Approved",
+							"Disapproved",
+							"Conditional (See above)"
+						],
+						"layout": "horizontal",
+						"selected": [],
+						"other": false,
+						"otherLabel": ""
+					}
+				]
+			},
+			{
+				"id": "81l6277g",
+				"type": "row",
+				"items": [
+					{
+						"id": "kjjknii3",
+						"type": "date",
+						"label": "Date",
+						"name": "",
+						"required": false,
+						"readOnly": false,
+						"help": "",
+						"width": 1,
+						"value": "",
+						"dateFormat": "yyyy-mm-dd",
+						"today": true
+					},
+					{
+						"id": "1vp1hyve",
+						"type": "signature",
+						"label": "Autumn Ridge Homeowners Association, Inc. Officer And/or Architectural Committee Signature",
+						"name": "",
+						"required": false,
+						"readOnly": false,
+						"help": "",
+						"width": 1.6
+					}
+				]
+			}
+		]
+	}
+}
